@@ -1,7 +1,11 @@
 Merhaba 👋
 
+
+
 🌱 Şuan QA Tester olmak için çabalıyorum :)
+
 📫 Bana şu adresten ulaşabilirsin : simtenpefeoglu@gmail.com
+
 
 
 <!--
