@@ -1,4 +1,8 @@
-### Hi there 👋
+Merhaba 👋
+
+🌱 Şuan QA Tester olmak için çabalıyorum :)
+📫 Bana şu adresten ulaşabilirsin : simtenpefeoglu@gmail.com
+
 
 <!--
 **Unwabu/Unwabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
