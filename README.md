@@ -1,4 +1,4 @@
-![MasterHead](https://68.media.tumblr.com/45bd117384c3126fa60d552a4b82699d/tumblr_os6jvy7Yi81vjxr9zo1_1280.gif)
+![MasterHead](https://68.media.tumblr.com/12e6842f43f796addda614bf3024cd50/tumblr_ok8hzjjFYO1v7eoizo1_540.gif)
 <h1 align="center">Hi 👋, I'm Simten</h1>
 <h3 align="center">A passionate learner & QA Test Engineer from Turkey!</h3>
 
