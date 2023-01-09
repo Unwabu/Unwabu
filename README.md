@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Şuan QA Tester olmak için çabalıyorum :)
+🌱 Şuan QA Test Engineer olmak için çabalıyorum :)
 
 
 
