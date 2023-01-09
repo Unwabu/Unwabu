@@ -1,14 +1,15 @@
-![MasterHead](https://68.media.tumblr.com/12e6842f43f796addda614bf3024cd50/tumblr_ok8hzjjFYO1v7eoizo1_540.gif)
-<h1 align="center">Hi 👋, I'm Simten</h1>
-<h3 align="center">A passionate learner & QA Test Engineer from Turkey!</h3>
+ ![MasterHead](https://media2.giphy.com/media/KTyJ3VPxkbDKU/giphy.gif?cid=790b76114eba75a24b347047bfc8867d3b7a88eb2161d556&rid=giphy.gif&ct=g)
 
-https://pfps.gg/assets/banners/1181-playful-sleeping-cats.gif
+<h1 align="left">Hi 👋, I'm Simten</h1>
+<h3 align="left">A passionate learner & QA Test Engineer from Turkey!</h3>
+
+
 
 - 💬 Talk with me (I won't bite) **https://www.linkedin.com/in/simtenpefeoglu**
 
-- ⚡ Fun fact **I'm a trilingual (Turkish,English & Japanese)**
+- ⚡ Fun fact: **I'm a trilingual (Turkish,English & Japanese)**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
