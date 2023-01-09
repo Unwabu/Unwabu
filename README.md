@@ -1,7 +1,8 @@
+![MasterHead](https://68.media.tumblr.com/45bd117384c3126fa60d552a4b82699d/tumblr_os6jvy7Yi81vjxr9zo1_1280.gif)
 <h1 align="center">Hi 👋, I'm Simten</h1>
 <h3 align="center">A passionate learner & QA Test Engineer from Turkey!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/KoTI.gif">
+https://pfps.gg/assets/banners/1181-playful-sleeping-cats.gif
 
 - 💬 Talk with me (I won't bite) **https://www.linkedin.com/in/simtenpefeoglu**
 
