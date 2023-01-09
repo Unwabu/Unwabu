@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simten</h1>
 <h3 align="center">A passionate learner & QA Test Engineer from Turkey!</h3>
 
-<p align="left"> <img src="https://tr.pinterest.com/pin/454371049890936975/" alt="unwabu" /> </p>
+<p align="left"> <img src="https://i.gifer.com/KoTI.gif" alt="unwabu" /> </p>
 
 - 💬 Talk with me (I won't bite) **https://www.linkedin.com/in/simtenpefeoglu**
 
