@@ -1,4 +1,4 @@
- ![MasterHead](https://media2.giphy.com/media/KTyJ3VPxkbDKU/giphy.gif?cid=790b76114eba75a24b347047bfc8867d3b7a88eb2161d556&rid=giphy.gif&ct=g)
+ ![MasterHead](https://i.pinimg.com/originals/0a/d1/d7/0ad1d7cef24a77e15099915897edb089.gif)
 
 <h1 align="left">Hi 👋, I'm Simten</h1>
 <h3 align="left">A passionate learner & QA Test Engineer from Turkey!</h3>
